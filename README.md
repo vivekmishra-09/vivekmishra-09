@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Vivek Mishra
+# Hi 👋, I'm Vivek Mishra
 **A passionate Full Stack Developer || Independent Researcher 
 
 Email Me 👉 ✉️ **vivekmishra0911@gmail.com** For Collaboration/Project or Anything Else. 😊😊
