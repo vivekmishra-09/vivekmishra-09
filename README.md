@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vivek Mishra
-**A passionate Full Stack Developer || Independent Researcher 
+**A passionate Full Stack Developer || Interstellar Propulsion Theorist 
 
 Email Me 👉 ✉️ **vivekmishra0911@gmail.com** For Collaboration/Project or Anything Else. 😊😊
  
