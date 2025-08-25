@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **vivekmishra0911@gmail.com** For Collaboration/Project or 
  
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekmishra-09&label=Profile%20views&color=0e75b6&style=flat" alt="vivekmishra-09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekmishra-09&label=Visitors%20&color=0e75b6&style=flat" alt="vivekmishra-09" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
