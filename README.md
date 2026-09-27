@@ -138,6 +138,18 @@
 
 <br/>
 
+## ✏️ Sketchline — Photo to Pencil Sketch
+
+A small tool I built: drop a photo in, it auto-converts into a pencil sketch, right in the browser — nothing uploaded anywhere.
+
+<div align="center">
+
+**[→ Try it here](https://claude.ai/artifact/FXDnBR6AM8RaQ79VckYtPH)**
+
+</div>
+
+<br/>
+
 ## 🐍 Activity Tracker
 
 <div align="center">
