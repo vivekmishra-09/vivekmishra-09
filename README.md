@@ -122,6 +122,11 @@ C++          █████████████░░░░░░░░░�
 ### 📰 LATEST TRANSMISSIONS — BLOG POSTS
 
 <!-- BLOG-POST-LIST:START -->
+- [When Success Changes People: The Story No One Warns You About](https://observer33.medium.com/when-success-changes-people-the-story-no-one-warns-you-about-a103bb568f58?source=rss-f37f34e9ffea------2)
+- [How America Turned Debt Into Global Power](https://observer33.medium.com/how-america-turned-debt-into-global-power-a85e3f58d1ea?source=rss-f37f34e9ffea------2)
+- [THE LONELIEST GENIUS: The Untold Human Story of Nikola Tesla](https://observer33.medium.com/the-loneliest-genius-the-untold-human-story-of-nikola-tesla-2701c76d478e?source=rss-f37f34e9ffea------2)
+- [I Built My Entire Life on Rules Nobody Taught Me](https://observer33.medium.com/i-built-my-entire-life-on-rules-nobody-taught-me-ebeed567c208?source=rss-f37f34e9ffea------2)
+- [The Truth About Luck: Why Only Shallow Minds Call It “Weakness”](https://observer33.medium.com/the-truth-about-luck-why-only-shallow-minds-call-it-weakness-47fb4ea66cc9?source=rss-f37f34e9ffea------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
