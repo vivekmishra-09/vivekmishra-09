@@ -16,5 +16,5 @@ jobs:
       - name: Pull in latest posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://YOUR-BLOG-OR-MEDIUM-OR-DEVTO-RSS-FEED-URL"
+          feed_list: "https://medium.com/feed/@observer33"
           max_post_count: 5
